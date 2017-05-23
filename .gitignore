@@ -1,0 +1,10 @@
+#ºöÂÔÎÄ¼ş
+.gradle/*
+
+.idea/*
+
+build/*
+
+out/*
+
+*.iml
